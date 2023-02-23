@@ -1,5 +1,5 @@
 # pcos-diagnosis
-lycystic ovary syndrome (PCOS) is a condition in which the ovaries produce an abnormal amount of androgens, male sex hormones that are usually present
+polycystic ovary syndrome (PCOS) is a condition in which the ovaries produce an abnormal amount of androgens, male sex hormones that are usually present
 in women in small amounts.  the numerous small cysts (fluid-filled sacs) that form in the ovaries. However, some women with this disorder do not have cysts,
 while some women without the disorder
 do develop cysts.
